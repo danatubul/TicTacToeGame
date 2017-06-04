@@ -1,0 +1,12 @@
+{
+  "name": "Dana_TicTacToe",
+  "version": "0.0.1",
+  "description": "Tic Tac Toe game for spector interview",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "pg-promise": "^5.8.1",
+    "serve-favicon": "^2.4.3"
+  }
+}
